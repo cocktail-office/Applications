@@ -1,0 +1,42 @@
+[submodule "AGrhum"]
+	path = AGrhum
+	url = https://cocktail-office@github.com/cocktail-office/AGrhum.git
+[submodule "BibassePlus"]
+	path = BibassePlus
+	url = https://cocktail-office@github.com/cocktail-office/BibassePlus.git
+[submodule "Cannelle"]
+	path = Cannelle
+	url = https://cocktail-office@github.com/cocktail-office/Cannelle.git
+[submodule "Cocolight"]
+	path = Cocolight
+	url = https://cocktail-office@github.com/cocktail-office/Cocolight.git
+[submodule "CocolightPlus"]
+	path = CocolightPlus
+	url = https://cocktail-office@github.com/cocktail-office/CocolightPlus.git
+[submodule "Conges"]
+	path = Conges
+	url = https://cocktail-office@github.com/cocktail-office/Conges.git
+[submodule "DT3"]
+	path = DT3
+	url = https://cocktail-office@github.com/cocktail-office/DT3.git
+[submodule "Feve"]
+	path = Feve
+	url = https://cocktail-office@github.com/cocktail-office/Feve.git
+[submodule "Grille"]
+	path = Grille
+	url = https://cocktail-office@github.com/cocktail-office/Grille.git
+[submodule "GspotPlus"]
+	path = GspotPlus
+	url = https://cocktail-office@github.com/cocktail-office/GspotPlus.git
+[submodule "Inscription"]
+	path = Inscription
+	url = https://cocktail-office@github.com/cocktail-office/Inscription.git
+[submodule "PreInscription"]
+	path = PreInscription
+	url = https://cocktail-office@github.com/cocktail-office/PreInscription.git
+[submodule "ProfilerPlus"]
+	path = ProfilerPlus
+	url = https://cocktail-office@github.com/cocktail-office/ProfilerPlus.git
+[submodule "TrombiWeb"]
+	path = TrombiWeb
+	url = https://cocktail-office@github.com/cocktail-office/TrombiWeb.git
