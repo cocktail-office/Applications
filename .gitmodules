@@ -7,9 +7,6 @@
 [submodule "Cannelle"]
 	path = Cannelle
 	url = https://cocktail-office@github.com/cocktail-office/Cannelle.git
-[submodule "Cocolight"]
-	path = Cocolight
-	url = https://cocktail-office@github.com/cocktail-office/Cocolight.git
 [submodule "CocolightPlus"]
 	path = CocolightPlus
 	url = https://cocktail-office@github.com/cocktail-office/CocolightPlus.git
