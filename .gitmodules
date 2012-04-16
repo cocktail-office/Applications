@@ -37,3 +37,6 @@
 [submodule "TrombiWeb"]
 	path = TrombiWeb
 	url = https://cocktail-office@github.com/cocktail-office/TrombiWeb.git
+[submodule "SuperPlan"]
+	path = SuperPlan
+	url = https://cocktail-office@github.com/cocktail-office/SuperPlan.git
