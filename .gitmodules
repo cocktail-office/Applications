@@ -40,3 +40,6 @@
 [submodule "SuperPlan"]
 	path = SuperPlan
 	url = https://cocktail-office@github.com/cocktail-office/SuperPlan.git
+[submodule "Cocolight"]
+	path = Cocolight
+	url = https://cocktail-office@github.com/cocktail-office/Cocolight.git
