@@ -43,3 +43,15 @@
 [submodule "Cocolight"]
 	path = Cocolight
 	url = https://cocktail-office@github.com/cocktail-office/Cocolight.git
+[submodule "Directory"]
+	path = Directory
+	url = https://cocktail-office@github.com/cocktail-office/Directory.git
+[submodule "EDTWeb"]
+	path = EDTWeb
+	url = https://cocktail-office@github.com/cocktail-office/EDTWeb.git
+[submodule "GroupeScol"]
+	path = GroupeScol
+	url = https://cocktail-office@github.com/cocktail-office/GroupeScol.git
+[submodule "ServeurPlanning"]
+	path = ServeurPlanning
+	url = https://cocktail-office@github.com/cocktail-office/ServeurPlanning.git
